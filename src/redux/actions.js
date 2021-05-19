@@ -9,7 +9,8 @@ export const fetchPosts = () => async (dispatch, getState) => {
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/2/tweets/search/recent";
 
 	const headers = {
-		Authorization: 'OAuth oauth_consumer_key="yoioBYllFiL5GpGelbK2RDSrm",oauth_token="69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621425786",oauth_nonce="6LdG6ElFKbh",oauth_version="1.0",oauth_signature="HnrS1FBvQTWUkAKz7HunrCIsscg%3D"',
+		Authorization: 'OAuth oauth_consumer_key="yoioBYllFiL5GpGelbK2RDSrm",oauth_token="69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621438833",oauth_nonce="pdTCfh4qChb",oauth_version="1.0",oauth_signature="blONvIiYdk5e%2FnXGnrTqsjiMvpA%3D"',
+		Cookie: 'guest_id=v1%3A162142193466870142; personalization_id="v1_8pNsppXnO518XD1sdJB8TQ=="; lang=en',
 	};
 
 	dispatch({
