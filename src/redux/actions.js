@@ -9,7 +9,7 @@ export const fetchPosts = () => async (dispatch, getState) => {
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/2/tweets/search/recent";
 
 	const headers = {
-		Authorization: 'OAuth oauth_consumer_key="yoioBYllFiL5GpGelbK2RDSrm",oauth_token="69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621438833",oauth_nonce="pdTCfh4qChb",oauth_version="1.0",oauth_signature="blONvIiYdk5e%2FnXGnrTqsjiMvpA%3D"',
+		Authorization: 'OAuth oauth_consumer_key="yoioBYllFiL5GpGelbK2RDSrm",oauth_token="69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621440571",oauth_nonce="iJGPl3Z1gZC",oauth_version="1.0",oauth_signature="ALQc4K%2FhPplpZEGXIaCwu2wEFWI%3D"',
 		Cookie: 'guest_id=v1%3A162142193466870142; personalization_id="v1_8pNsppXnO518XD1sdJB8TQ=="; lang=en',
 	};
 
@@ -18,12 +18,12 @@ export const fetchPosts = () => async (dispatch, getState) => {
 	});
 
 	try {
-		const response = await axios.get(`${SEARCH_TWITTER_URL}?query=arsenal`, headers);
-		console.log(response);
+		const response = await axios.get(`${SEARCH_TWITTER_URL}?query=arsenal`, { headers: headers });
+		console.log(response.data.data);
 
 		dispatch({
 			type: "FETCH_TWEETS_SUCCESS",
-			payload: response.body,
+			payload: response.data.data,
 		});
 	} catch (error) {
 		dispatch({

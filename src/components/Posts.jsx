@@ -19,7 +19,7 @@ const Posts = () => {
 			{state.items.map((el) => {
 				return (
 					<div key={el.id}>
-						<h2>test</h2>
+						<h2>{el.text}</h2>
 					</div>
 				);
 			})}
