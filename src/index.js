@@ -5,7 +5,8 @@ import { applyMiddleware, createStore } from "redux";
 import App from "./App";
 import { postsReducer } from "./redux/reducers";
 import reportWebVitals from "./reportWebVitals";
-import logger from "redux-logger";
+import thunk from "redux-thunk";
+import { composeWithDevTools } from "redux-devtools-extension";
 
 const myLogger = (store) => (next) => (action) => {
 	if (store.getState() >= 10) {
@@ -14,7 +15,7 @@ const myLogger = (store) => (next) => (action) => {
 	return next(action);
 };
 
-const store = createStore(postsReducer, applyMiddleware(myLogger, logger));
+const store = createStore(postsReducer, composeWithDevTools(applyMiddleware(thunk)));
 ReactDOM.render(
 	<Provider store={store}>
 		<App />
