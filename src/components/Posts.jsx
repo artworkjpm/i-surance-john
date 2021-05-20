@@ -20,7 +20,7 @@ const Posts = () => {
 			{renderTweets()}
 			<SearchBar />
 			{state.items.map((el) => {
-				return <Tweet data={el} key={el.id} />;
+				return <Tweet data={el} key={el.id_str} />;
 			})}
 		</div>
 	);

@@ -7,7 +7,8 @@ export const searchText = (text) => (dispatch) => {
 	});
 };
 
-export const fetchPosts = () => async (dispatch) => {
+export const fetchPosts = () => async (dispatch, getState) => {
+	let { searchText } = getState();
 	//https://private-cors-server.herokuapp.com/
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json";
 	const headers = {
@@ -17,7 +18,7 @@ export const fetchPosts = () => async (dispatch) => {
 		type: "FETCH_TWEETS_REQUEST",
 	});
 	try {
-		const response = await axios.get(`${SEARCH_TWITTER_URL}?q=%23hulk&lang=es`, { headers: headers });
+		const response = await axios.get(`${SEARCH_TWITTER_URL}?q=%23${searchText}&lang=es&count=100`, { headers: headers });
 		console.log(response.data.statuses);
 		dispatch({
 			type: "FETCH_TWEETS_SUCCESS",

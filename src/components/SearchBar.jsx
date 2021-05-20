@@ -1,12 +1,12 @@
 import React from "react";
 import { useDispatch } from "react-redux";
-import { searchText } from "../redux/actions";
+import { fetchPosts, searchText } from "../redux/actions";
 
 export default function SearchBar() {
-	const dispatch = useDispatch(searchText);
+	const dispatch = useDispatch(searchText, fetchPosts);
 	function handleChange(event) {
-		let text = event.target.value;
-		dispatch(searchText(text));
+		dispatch(searchText(event.target.value));
+		dispatch(fetchPosts());
 	}
 
 	return (
