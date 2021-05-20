@@ -8,24 +8,41 @@ export default function Tweet(props) {
 				<ImgCircle>
 					<img src={data.user.profile_image_url} alt="" />
 				</ImgCircle>
-				<div>{data.user.name}</div>
+				<div>
+					<div>
+						<b>{data.user.name}</b>
+					</div>
+
+					<div>{data.text}</div>
+				</div>
 			</TweetContainer>
 		</div>
 	);
 }
 
 const TweetContainer = styled.div`
-	display: flex;
+	display: grid;
+	grid-template-columns: auto auto;
+	border: 2px green solid;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 35px;
+
+	> div > div:nth-of-type(1) {
+		font-size: 20px;
+	}
 `;
 
 const ImgCircle = styled.div`
+	display: inline-block;
 	position: relative;
-
+	width: 50px;
+	height: 50px;
 	overflow: hidden;
 	border-radius: 50%;
-
+	margin-right: 10px;
 	img {
-		width: 100%;
-		height: auto;
+		width: auto;
+		height: 100%;
 	}
 `;
