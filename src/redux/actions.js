@@ -9,7 +9,7 @@ export const searchText = (text) => (dispatch) => {
 
 export const fetchPosts = () => async (dispatch, getState) => {
 	let { searchText } = getState();
-	//https://private-cors-server.herokuapp.com/
+	//Try https://private-cors-server.herokuapp.com/ if https://cors-john.herokuapp.com is failing
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json";
 	const headers = {
 		Authorization: `Bearer ${process.env.REACT_APP_TWITTER_BEARER_TOKEN}`,
