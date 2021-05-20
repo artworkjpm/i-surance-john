@@ -8,13 +8,6 @@ import reportWebVitals from "./reportWebVitals";
 import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
 
-const myLogger = (store) => (next) => (action) => {
-	if (store.getState() >= 10) {
-		return next({ type: "DEC" });
-	}
-	return next(action);
-};
-
 const store = createStore(postsReducer, composeWithDevTools(applyMiddleware(thunk)));
 ReactDOM.render(
 	<Provider store={store}>

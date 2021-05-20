@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchPosts } from "../redux/actions";
+import Tweet from "./Tweet";
 
 const Posts = () => {
 	const dispatch = useDispatch(fetchPosts);
@@ -17,11 +18,7 @@ const Posts = () => {
 		<div>
 			{renderTweets()}
 			{state.items.map((el) => {
-				return (
-					<div key={el.id}>
-						<h2>{el.text}</h2>
-					</div>
-				);
+				return <Tweet data={el} key={el.id} />;
 			})}
 		</div>
 	);

@@ -1,0 +1,2318 @@
+[
+    {
+        "created_at": "Thu May 20 10:34:15 +0000 2021",
+        "id": 1395326998440992800,
+        "id_str": "1395326998440992777",
+        "text": "Rumbo a Madrid 🏙 para la colección privada de uno de nuestros mejores clientes!🚷\n\nSpider-Man 🕷 y Superman 🦸🏽‍♂️, do… https://t.co/dLQ8RKQi0S",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dLQ8RKQi0S",
+                    "expanded_url": "https://twitter.com/i/web/status/1395326998440992777",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3130603319,
+            "id_str": "3130603319",
+            "name": "Macocaya.es",
+            "screen_name": "Macocaya_es",
+            "location": "",
+            "description": "Líderes en distribución, alquiler y venda de figuras temáticas, con más de 4000 unidades en STOCK",
+            "url": "https://t.co/AvS45gKkZk",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AvS45gKkZk",
+                            "expanded_url": "http://www.macocaya.es",
+                            "display_url": "macocaya.es",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 828,
+            "friends_count": 7,
+            "listed_count": 0,
+            "created_at": "Tue Mar 31 09:30:52 +0000 2015",
+            "favourites_count": 225,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 592,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281535921758916609/w5OS_5Hp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281535921758916609/w5OS_5Hp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130603319/1599649880",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Thu May 20 03:45:35 +0000 2021",
+        "id": 1395224156384338000,
+        "id_str": "1395224156384337926",
+        "text": "Camiseta \"Megavengers\" diseñada por lavalampcreative  #IronMan #CaptainAmerica #ScarletWitch #Quicksilver #MegaMan… https://t.co/pkDCOfVUO1",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "IronMan",
+                    "indices": [
+                        54,
+                        62
+                    ]
+                },
+                {
+                    "text": "CaptainAmerica",
+                    "indices": [
+                        63,
+                        78
+                    ]
+                },
+                {
+                    "text": "ScarletWitch",
+                    "indices": [
+                        79,
+                        92
+                    ]
+                },
+                {
+                    "text": "Quicksilver",
+                    "indices": [
+                        93,
+                        105
+                    ]
+                },
+                {
+                    "text": "MegaMan",
+                    "indices": [
+                        106,
+                        114
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pkDCOfVUO1",
+                    "expanded_url": "https://twitter.com/i/web/status/1395224156384337926",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://teepeek.com/\" rel=\"nofollow\">teepeekweb</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2980228780,
+            "id_str": "2980228780",
+            "name": "Teepeek",
+            "screen_name": "TeepeekWeb",
+            "location": "",
+            "description": "En Teepeek descubrirás cada día nuevas camisetas de cine, series, cómics, videojuegos... ¡Tenemos diseños de todo tipo!",
+            "url": "http://t.co/0oXQt6rB7H",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/0oXQt6rB7H",
+                            "expanded_url": "http://teepeek.com/",
+                            "display_url": "teepeek.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 391,
+            "friends_count": 299,
+            "listed_count": 164,
+            "created_at": "Thu Jan 15 18:49:19 +0000 2015",
+            "favourites_count": 3164,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 144207,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "002132",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/559114562515910656/VU-_vHot_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/559114562515910656/VU-_vHot_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2980228780/1478113409",
+            "profile_link_color": "FF1D23",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 19:48:44 +0000 2021",
+        "id": 1395104153114927000,
+        "id_str": "1395104153114927114",
+        "text": "RT @MeriStation: Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún interés…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        69,
+                        74
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MeriStation",
+                    "name": "MeriStation.com",
+                    "id": 89907746,
+                    "id_str": "89907746",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1005690524660060200,
+            "id_str": "1005690524660060161",
+            "name": "Federico Torrijos",
+            "screen_name": "Link_eit",
+            "location": "",
+            "description": "Me gustan las cosas geek, el cine, series, anime, manga, videojuegos, leer, básicamente todo un friki.",
+            "url": "https://t.co/z5M6Lrx9cB",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/z5M6Lrx9cB",
+                            "expanded_url": "https://www.facebook.com/ElBastionFriki/",
+                            "display_url": "facebook.com/ElBastionFriki/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 35,
+            "friends_count": 64,
+            "listed_count": 0,
+            "created_at": "Sun Jun 10 05:58:00 +0000 2018",
+            "favourites_count": 145,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15372,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1389301000234799106/7wYjWy3Y_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389301000234799106/7wYjWy3Y_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005690524660060161/1528610742",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed May 19 13:30:00 +0000 2021",
+            "id": 1395008840588947500,
+            "id_str": "1395008840588947458",
+            "text": "Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún… https://t.co/rOphiIMN2O",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hulk",
+                        "indices": [
+                            52,
+                            57
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rOphiIMN2O",
+                        "expanded_url": "https://twitter.com/i/web/status/1395008840588947458",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 89907746,
+                "id_str": "89907746",
+                "name": "MeriStation.com",
+                "screen_name": "MeriStation",
+                "location": "Madrid - Spain",
+                "description": "Web líder de videojuegos en España y Latinoamérica 🗺 \nNoticias, análisis, reportajes, guías, vídeos y ¡mucho más! 🎮🧡",
+                "url": "https://t.co/JyX9gVkT9D",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JyX9gVkT9D",
+                                "expanded_url": "http://www.meristation.com",
+                                "display_url": "meristation.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 286350,
+                "friends_count": 248,
+                "listed_count": 2381,
+                "created_at": "Sat Nov 14 09:43:58 +0000 2009",
+                "favourites_count": 5423,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 200801,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89907746/1523102625",
+                "profile_link_color": "93A644",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F0F0F0",
+                "profile_text_color": "303030",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 19:29:26 +0000 2021",
+        "id": 1395099295720820700,
+        "id_str": "1395099295720820739",
+        "text": "💥NUEVOS SKINS💥\n\nEl día de mañana llega la actualización del videojuego de #Avengers y con ella estos #skins inspira… https://t.co/gRARQ21wCx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Avengers",
+                    "indices": [
+                        74,
+                        83
+                    ]
+                },
+                {
+                    "text": "skins",
+                    "indices": [
+                        101,
+                        107
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/gRARQ21wCx",
+                    "expanded_url": "https://twitter.com/i/web/status/1395099295720820739",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1363943812800929800,
+            "id_str": "1363943812800929792",
+            "name": "Machiwi The Geekiest",
+            "screen_name": "MachiwiGeekiest",
+            "location": "",
+            "description": "Todo sobre Marvel, DC Cómics, películas, series, videojuegos, juguetes coleccionables y más... Suscríbete a mi canal de YouTube ⬇️",
+            "url": "https://t.co/aHPfXFEL8M",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/aHPfXFEL8M",
+                            "expanded_url": "https://youtube.com/channel/UC_CYyAlqdJ3G0GkmDKPIiVg",
+                            "display_url": "youtube.com/channel/UC_CYy…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 86,
+            "listed_count": 0,
+            "created_at": "Mon Feb 22 20:09:08 +0000 2021",
+            "favourites_count": 20,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 136,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1363944120473980930/SkroJxzb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363944120473980930/SkroJxzb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363943812800929792/1614025674",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 19:24:12 +0000 2021",
+        "id": 1395097980210929700,
+        "id_str": "1395097980210929667",
+        "text": "Ciro se ha pasado 2h jugando a #MarvelChampions y tras 2 partidas con #Hulk y 3 con #Antman ha conseguido derrotar… https://t.co/6vuSNcv1aB",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MarvelChampions",
+                    "indices": [
+                        31,
+                        47
+                    ]
+                },
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        70,
+                        75
+                    ]
+                },
+                {
+                    "text": "Antman",
+                    "indices": [
+                        84,
+                        91
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6vuSNcv1aB",
+                    "expanded_url": "https://twitter.com/i/web/status/1395097980210929667",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1384102547904864300,
+            "id_str": "1384102547904864258",
+            "name": "Zona Meeple",
+            "screen_name": "ZonaMeeple",
+            "location": "",
+            "description": "Somos tu cuenta sobre juegos de mesa. Suscríbete a nuestro canal de YouTube y disfruta de unboxings, opiniones, tutoriales y mucho más.",
+            "url": "https://t.co/TqH2H5KBAH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/TqH2H5KBAH",
+                            "expanded_url": "https://youtube.com/channel/UCjLSxP9HW-0GEzOClmPZY3g",
+                            "display_url": "youtube.com/channel/UCjLSx…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 168,
+            "friends_count": 250,
+            "listed_count": 3,
+            "created_at": "Mon Apr 19 11:12:27 +0000 2021",
+            "favourites_count": 144,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 44,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1384102795205177353/6pVKb6pL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384102795205177353/6pVKb6pL_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1384102547904864258/1618833555",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 16:50:42 +0000 2021",
+        "id": 1395059349194743800,
+        "id_str": "1395059349194743815",
+        "text": "Dejo por aquí el #Hulk de #marvel que hice la semana pasada en directo. https://t.co/iNT3LL4ACi",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        17,
+                        22
+                    ]
+                },
+                {
+                    "text": "marvel",
+                    "indices": [
+                        26,
+                        33
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1395059197646155800,
+                    "id_str": "1395059197646155777",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E1w-8uxXMAE_DbA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E1w-8uxXMAE_DbA.jpg",
+                    "url": "https://t.co/iNT3LL4ACi",
+                    "display_url": "pic.twitter.com/iNT3LL4ACi",
+                    "expanded_url": "https://twitter.com/Youtube_Cei/status/1395059349194743815/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1440,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 478,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 844,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1395059197646155800,
+                    "id_str": "1395059197646155777",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E1w-8uxXMAE_DbA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E1w-8uxXMAE_DbA.jpg",
+                    "url": "https://t.co/iNT3LL4ACi",
+                    "display_url": "pic.twitter.com/iNT3LL4ACi",
+                    "expanded_url": "https://twitter.com/Youtube_Cei/status/1395059349194743815/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1440,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 478,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 844,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 973487659384483800,
+            "id_str": "973487659384483840",
+            "name": "Yen San (Comic e ilustración) +13K",
+            "screen_name": "Youtube_Cei",
+            "location": "Badalona, España",
+            "description": "Twitter oficial del canal didáctico #Comic e #ilustración de YouTube.\nYenSanCeI en Twitch. #educación #dibujo",
+            "url": "https://t.co/ozTqTL5rjD",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ozTqTL5rjD",
+                            "expanded_url": "https://www.youtube.com/channel/UCAOPebgMu-9Fmv42qMGnjEw?sub_confirmation=1",
+                            "display_url": "youtube.com/channel/UCAOPe…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 236,
+            "friends_count": 441,
+            "listed_count": 5,
+            "created_at": "Tue Mar 13 09:15:19 +0000 2018",
+            "favourites_count": 5892,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2804,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1276205982931189760/wv7fMyBr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276205982931189760/wv7fMyBr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/973487659384483840/1605979793",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 16:03:18 +0000 2021",
+        "id": 1395047420485161000,
+        "id_str": "1395047420485160960",
+        "text": "🛑 Buenos poderes 🛑⁠\n🔥 Comparte y sigue a @animetrono⁠ para más contenido⁠\n🚀 Únete a nuestro Discord: LINK en la BIO… https://t.co/ICfFju2zlx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "animetrono",
+                    "name": "animetrono",
+                    "id": 1132718473589809200,
+                    "id_str": "1132718473589809152",
+                    "indices": [
+                        41,
+                        52
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ICfFju2zlx",
+                    "expanded_url": "https://twitter.com/i/web/status/1395047420485160960",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1132718473589809200,
+            "id_str": "1132718473589809152",
+            "name": "animetrono",
+            "screen_name": "animetrono",
+            "location": "",
+            "description": "Cuenta activa para fanáticos del #anime\n🔻 Notícias del mundo del anime\n🔻 Contacto vía DM",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 55,
+            "friends_count": 18,
+            "listed_count": 0,
+            "created_at": "Sun May 26 18:41:43 +0000 2019",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 912,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132718941850279936/YOyaPV4A_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132718941850279936/YOyaPV4A_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132718473589809152/1558900499",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 15:59:02 +0000 2021",
+        "id": 1395046345065517000,
+        "id_str": "1395046345065517059",
+        "text": "RT @MeriStation: Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún interés…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        69,
+                        74
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MeriStation",
+                    "name": "MeriStation.com",
+                    "id": 89907746,
+                    "id_str": "89907746",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 815630897114443800,
+            "id_str": "815630897114443777",
+            "name": "Fernando Cabrera🦋",
+            "screen_name": "Fernando362880",
+            "location": "Mi Casa",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 70,
+            "friends_count": 83,
+            "listed_count": 0,
+            "created_at": "Sun Jan 01 18:48:54 +0000 2017",
+            "favourites_count": 15847,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 33908,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1390062435390959618/Q6237_KK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390062435390959618/Q6237_KK_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed May 19 13:30:00 +0000 2021",
+            "id": 1395008840588947500,
+            "id_str": "1395008840588947458",
+            "text": "Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún… https://t.co/rOphiIMN2O",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hulk",
+                        "indices": [
+                            52,
+                            57
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rOphiIMN2O",
+                        "expanded_url": "https://twitter.com/i/web/status/1395008840588947458",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 89907746,
+                "id_str": "89907746",
+                "name": "MeriStation.com",
+                "screen_name": "MeriStation",
+                "location": "Madrid - Spain",
+                "description": "Web líder de videojuegos en España y Latinoamérica 🗺 \nNoticias, análisis, reportajes, guías, vídeos y ¡mucho más! 🎮🧡",
+                "url": "https://t.co/JyX9gVkT9D",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JyX9gVkT9D",
+                                "expanded_url": "http://www.meristation.com",
+                                "display_url": "meristation.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 286350,
+                "friends_count": 248,
+                "listed_count": 2381,
+                "created_at": "Sat Nov 14 09:43:58 +0000 2009",
+                "favourites_count": 5423,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 200801,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89907746/1523102625",
+                "profile_link_color": "93A644",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F0F0F0",
+                "profile_text_color": "303030",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 15:27:42 +0000 2021",
+        "id": 1395038462617784300,
+        "id_str": "1395038462617784323",
+        "text": "#ZackSnyder dice que #Hulk y #IronMan sus héroes favoritos de #Marvel https://t.co/HmMMLGfkXv",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ZackSnyder",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        21,
+                        26
+                    ]
+                },
+                {
+                    "text": "IronMan",
+                    "indices": [
+                        29,
+                        37
+                    ]
+                },
+                {
+                    "text": "Marvel",
+                    "indices": [
+                        62,
+                        69
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1395038460759756800,
+                    "id_str": "1395038460759756800",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E1wsFr2X0AAmGEY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E1wsFr2X0AAmGEY.jpg",
+                    "url": "https://t.co/HmMMLGfkXv",
+                    "display_url": "pic.twitter.com/HmMMLGfkXv",
+                    "expanded_url": "https://twitter.com/nuiyi/status/1395038462617784323/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 767,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 399,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 767,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1395038460759756800,
+                    "id_str": "1395038460759756800",
+                    "indices": [
+                        70,
+                        93
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/E1wsFr2X0AAmGEY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/E1wsFr2X0AAmGEY.jpg",
+                    "url": "https://t.co/HmMMLGfkXv",
+                    "display_url": "pic.twitter.com/HmMMLGfkXv",
+                    "expanded_url": "https://twitter.com/nuiyi/status/1395038462617784323/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 767,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 399,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 767,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 108640075,
+            "id_str": "108640075",
+            "name": "Nuiyi",
+            "screen_name": "nuiyi",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 25,
+            "friends_count": 308,
+            "listed_count": 1,
+            "created_at": "Tue Jan 26 15:54:10 +0000 2010",
+            "favourites_count": 2348,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1935,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1371967767214166024/i87uPNIn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1371967767214166024/i87uPNIn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/108640075/1618359941",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 14:54:42 +0000 2021",
+        "id": 1395030156671135700,
+        "id_str": "1395030156671135744",
+        "text": "RT @sin_doblaje: Erica Bana descarta regresar con su #Hulk a Marvel, a pesar de que los nuevos films abrirán la puerta al multiverso: \"Siem…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        53,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sin_doblaje",
+                    "name": "Sin Doblaje",
+                    "id": 2842659143,
+                    "id_str": "2842659143",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 119190116,
+            "id_str": "119190116",
+            "name": "Leticia Leibelt",
+            "screen_name": "letileibelt",
+            "location": "Buenos Aires, Argentina",
+            "description": "Periodista. Comunicadora social. Cinéfila en grado patológico. Co-creadora de @sin_doblaje.",
+            "url": "https://t.co/3Ubf2IAIHl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3Ubf2IAIHl",
+                            "expanded_url": "https://www.youtube.com/channel/UCjVZK7pfsUGZIthQu4QxCGQ",
+                            "display_url": "youtube.com/channel/UCjVZK…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 154,
+            "friends_count": 452,
+            "listed_count": 0,
+            "created_at": "Tue Mar 02 23:00:58 +0000 2010",
+            "favourites_count": 30986,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7817,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "735A82",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1313309752785596416/ZaqX8_D-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313309752785596416/ZaqX8_D-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119190116/1557604000",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFF7CC",
+            "profile_text_color": "0C3E53",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed May 19 14:54:34 +0000 2021",
+            "id": 1395030122592448500,
+            "id_str": "1395030122592448515",
+            "text": "Erica Bana descarta regresar con su #Hulk a Marvel, a pesar de que los nuevos films abrirán la puerta al multiverso… https://t.co/qfh7cfF4T3",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hulk",
+                        "indices": [
+                            36,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/qfh7cfF4T3",
+                        "expanded_url": "https://twitter.com/i/web/status/1395030122592448515",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2842659143,
+                "id_str": "2842659143",
+                "name": "Sin Doblaje",
+                "screen_name": "sin_doblaje",
+                "location": "Argentina",
+                "description": "Cine, series y cultura pop. Mucho Marvel y DC!!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 242,
+                "friends_count": 15,
+                "listed_count": 5,
+                "created_at": "Fri Oct 24 16:51:17 +0000 2014",
+                "favourites_count": 169,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6815,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1284618166421856257/qXCTCZvw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284618166421856257/qXCTCZvw_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842659143/1595111814",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 14:54:34 +0000 2021",
+        "id": 1395030122592448500,
+        "id_str": "1395030122592448515",
+        "text": "Erica Bana descarta regresar con su #Hulk a Marvel, a pesar de que los nuevos films abrirán la puerta al multiverso… https://t.co/qfh7cfF4T3",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        36,
+                        41
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/qfh7cfF4T3",
+                    "expanded_url": "https://twitter.com/i/web/status/1395030122592448515",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2842659143,
+            "id_str": "2842659143",
+            "name": "Sin Doblaje",
+            "screen_name": "sin_doblaje",
+            "location": "Argentina",
+            "description": "Cine, series y cultura pop. Mucho Marvel y DC!!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 242,
+            "friends_count": 15,
+            "listed_count": 5,
+            "created_at": "Fri Oct 24 16:51:17 +0000 2014",
+            "favourites_count": 169,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6815,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1284618166421856257/qXCTCZvw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284618166421856257/qXCTCZvw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842659143/1595111814",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 14:12:45 +0000 2021",
+        "id": 1395019598408396800,
+        "id_str": "1395019598408396809",
+        "text": "'#MARVELSAVENGERS' Anuncia skins de #MarvelStudios.\n\nHasta el momento solo han enseñado la de Profesor #Hulk, pero… https://t.co/sFB0zl3UeR",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "MARVELSAVENGERS",
+                    "indices": [
+                        1,
+                        17
+                    ]
+                },
+                {
+                    "text": "MarvelStudios",
+                    "indices": [
+                        36,
+                        50
+                    ]
+                },
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        103,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sFB0zl3UeR",
+                    "expanded_url": "https://twitter.com/i/web/status/1395019598408396809",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1394720145268953000,
+            "id_str": "1394720145268953090",
+            "name": "The-Marvels",
+            "screen_name": "TheMarvels2",
+            "location": "",
+            "description": "Dar toda la información del Mundo Marvel tanto del 616 como UCM !!",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 19,
+            "friends_count": 397,
+            "listed_count": 0,
+            "created_at": "Tue May 18 18:23:07 +0000 2021",
+            "favourites_count": 80,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 118,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1394720536685682696/ypLy8aIY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394720536685682696/ypLy8aIY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1394720145268953090/1621447953",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 13:35:56 +0000 2021",
+        "id": 1395010335552286700,
+        "id_str": "1395010335552286734",
+        "text": "RT @MeriStation: Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún interés…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        69,
+                        74
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "MeriStation",
+                    "name": "MeriStation.com",
+                    "id": 89907746,
+                    "id_str": "89907746",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2546715444,
+            "id_str": "2546715444",
+            "name": "Ivαη.",
+            "screen_name": "bativanchu",
+            "location": "",
+            "description": "24. Generación del 96. Vallecas.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 747,
+            "friends_count": 163,
+            "listed_count": 43,
+            "created_at": "Wed Jun 04 19:36:46 +0000 2014",
+            "favourites_count": 142868,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 124023,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1156245588855463936/aYr5oF7t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156245588855463936/aYr5oF7t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2546715444/1598124405",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed May 19 13:30:00 +0000 2021",
+            "id": 1395008840588947500,
+            "id_str": "1395008840588947458",
+            "text": "Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún… https://t.co/rOphiIMN2O",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Hulk",
+                        "indices": [
+                            52,
+                            57
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rOphiIMN2O",
+                        "expanded_url": "https://twitter.com/i/web/status/1395008840588947458",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 89907746,
+                "id_str": "89907746",
+                "name": "MeriStation.com",
+                "screen_name": "MeriStation",
+                "location": "Madrid - Spain",
+                "description": "Web líder de videojuegos en España y Latinoamérica 🗺 \nNoticias, análisis, reportajes, guías, vídeos y ¡mucho más! 🎮🧡",
+                "url": "https://t.co/JyX9gVkT9D",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/JyX9gVkT9D",
+                                "expanded_url": "http://www.meristation.com",
+                                "display_url": "meristation.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 286350,
+                "friends_count": 248,
+                "listed_count": 2381,
+                "created_at": "Sat Nov 14 09:43:58 +0000 2009",
+                "favourites_count": 5423,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 200801,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "B2DFDA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89907746/1523102625",
+                "profile_link_color": "93A644",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F0F0F0",
+                "profile_text_color": "303030",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 13:30:00 +0000 2021",
+        "id": 1395008840588947500,
+        "id_str": "1395008840588947458",
+        "text": "Eric Bana, el actor que interpretó a Bruce Banner / #Hulk en la película de 2003, ha asegurado que no tiene ningún… https://t.co/rOphiIMN2O",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Hulk",
+                    "indices": [
+                        52,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/rOphiIMN2O",
+                    "expanded_url": "https://twitter.com/i/web/status/1395008840588947458",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 89907746,
+            "id_str": "89907746",
+            "name": "MeriStation.com",
+            "screen_name": "MeriStation",
+            "location": "Madrid - Spain",
+            "description": "Web líder de videojuegos en España y Latinoamérica 🗺 \nNoticias, análisis, reportajes, guías, vídeos y ¡mucho más! 🎮🧡",
+            "url": "https://t.co/JyX9gVkT9D",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/JyX9gVkT9D",
+                            "expanded_url": "http://www.meristation.com",
+                            "display_url": "meristation.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 286350,
+            "friends_count": 248,
+            "listed_count": 2381,
+            "created_at": "Sat Nov 14 09:43:58 +0000 2009",
+            "favourites_count": 5423,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 200801,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "B2DFDA",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/749522524661309440/ozqmOnZv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/89907746/1523102625",
+            "profile_link_color": "93A644",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "303030",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    {
+        "created_at": "Wed May 19 11:08:33 +0000 2021",
+        "id": 1394973246202712000,
+        "id_str": "1394973246202712064",
+        "text": "Reseña exclusiva de\nIMMORTAL #HULK TIME OF MONSTERS #1\" \n\nDos historias cortas de @Al_Ewing @AlexPaknadel… https://t.co/cr6RDake7g",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "HULK",
+                    "indices": [
+                        29,
+                        34
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Al_Ewing",
+                    "name": "Al Ewing Writes Comics",
+                    "id": 15821197,
+                    "id_str": "15821197",
+                    "indices": [
+                        82,
+                        91
+                    ]
+                },
+                {
+                    "screen_name": "AlexPaknadel",
+                    "name": "Alex Paknadel",
+                    "id": 341394024,
+                    "id_str": "341394024",
+                    "indices": [
+                        92,
+                        105
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cr6RDake7g",
+                    "expanded_url": "https://twitter.com/i/web/status/1394973246202712064",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        107,
+                        130
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 186106522,
+            "id_str": "186106522",
+            "name": "Dave Da Silva",
+            "screen_name": "Dave_DSG",
+            "location": "The North of Southamerica",
+            "description": "Comic book enthusiast, news-reviews comics/movies. EIC @uncomicmas/ Noticias-reseñas de cómics/cine. Editor en Jefe @uncomicmas",
+            "url": "https://t.co/jV86KbbbbF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jV86KbbbbF",
+                            "expanded_url": "http://uncomicmas.blogspot.com/",
+                            "display_url": "uncomicmas.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1997,
+            "friends_count": 1518,
+            "listed_count": 118,
+            "created_at": "Thu Sep 02 16:02:21 +0000 2010",
+            "favourites_count": 6217,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 180369,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "58A5CC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1233461079168159744/sN6Uc4Qv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233461079168159744/sN6Uc4Qv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/186106522/1363794541",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    }
+]
