@@ -6,7 +6,7 @@ export default function Tweet(props) {
 		<div>
 			<TweetContainer>
 				<ImgCircle>
-					<img src={data.user.profile_image_url} alt="" />
+					<img src={data.user.profile_image_url} alt={data.user.name} />
 				</ImgCircle>
 				<div>
 					<div>

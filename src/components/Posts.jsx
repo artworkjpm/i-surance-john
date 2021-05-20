@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchPosts } from "../redux/actions";
+import SearchBar from "./SearchBar";
 import Tweet from "./Tweet";
 
 const Posts = () => {
@@ -17,6 +18,7 @@ const Posts = () => {
 	return (
 		<div>
 			{renderTweets()}
+			<SearchBar />
 			{state.items.map((el) => {
 				return <Tweet data={el} key={el.id} />;
 			})}

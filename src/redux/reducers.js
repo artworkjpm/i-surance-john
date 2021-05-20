@@ -1,5 +1,6 @@
 const initState = {
 	items: [],
+	searchText: "",
 	loading: false,
 	error: null,
 };
@@ -23,6 +24,11 @@ export const postsReducer = (state = initState, action) => {
 				...state,
 				loading: action.error,
 				items: [],
+			};
+		case "SEARCHTEXT_UPDATED":
+			return {
+				...state,
+				searchText: action.text,
 			};
 		default:
 			return state;
