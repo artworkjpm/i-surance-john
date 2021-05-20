@@ -5,10 +5,12 @@ import { applyMiddleware, createStore } from "redux";
 import App from "./App";
 import { postsReducer } from "./redux/reducers";
 import reportWebVitals from "./reportWebVitals";
-import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
+import { createEpicMiddleware } from "redux-observable";
 
-const store = createStore(postsReducer, composeWithDevTools(applyMiddleware(thunk)));
+const epicMiddleware = createEpicMiddleware();
+
+const store = createStore(postsReducer, composeWithDevTools(applyMiddleware(epicMiddleware)));
 ReactDOM.render(
 	<Provider store={store}>
 		<App />

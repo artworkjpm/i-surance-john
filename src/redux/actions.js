@@ -17,6 +17,7 @@ export const fetchPosts = () => async (dispatch, getState) => {
 	dispatch({
 		type: "FETCH_TWEETS_REQUEST",
 	});
+
 	try {
 		const response = await axios.get(`${SEARCH_TWITTER_URL}?q=%23${searchText}&lang=es&count=100`, { headers: headers });
 		console.log(response.data.statuses);
