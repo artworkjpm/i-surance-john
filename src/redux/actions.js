@@ -1,16 +1,10 @@
 import axios from "axios";
 
 export const fetchPosts = () => async (dispatch, getState) => {
-	const API_KEY = "yoioBYllFiL5GpGelbK2RDSrm";
-	const API_SECRET_KEY = "5jmzCwGXI3l2dJQ5o6pg9j0mZu9u4BZY0CIJwjjG0UT2ysAmPq";
-	const TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAHU1PwEAAAAAxgvrRIVbcemkJwZF%2FtWayPMIWj4%3DSad7myAf9I3JD62X6I4I8tO8Q2nGE6qhg7C5ORDq6tKKJ4WNlE";
-	const ACCESS_TOKEN = "69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We";
-	const ACCESS_TOKEN_SECRET = "kDF1NulKr3ZCWUYCDHnshT2ExVsfCzw5PJeL89YjeklhC";
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/2/tweets/search/recent";
 
 	const headers = {
-		Authorization: 'OAuth oauth_consumer_key="yoioBYllFiL5GpGelbK2RDSrm",oauth_token="69931513-ZlF6fnNTlFO1FXvEbR2Z9qhXoSVYfIOGBuwF0v8We",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621440571",oauth_nonce="iJGPl3Z1gZC",oauth_version="1.0",oauth_signature="ALQc4K%2FhPplpZEGXIaCwu2wEFWI%3D"',
-		Cookie: 'guest_id=v1%3A162142193466870142; personalization_id="v1_8pNsppXnO518XD1sdJB8TQ=="; lang=en',
+		Authorization: `OAuth oauth_consumer_key=${process.env.REACT_APP_API_KEY},oauth_token=${process.env.REACT_APP_ACCESS_TOKEN},oauth_signature_method="HMAC-SHA1",oauth_timestamp="1621440571",oauth_nonce="iJGPl3Z1gZC",oauth_version="1.0",oauth_signature="ALQc4K%2FhPplpZEGXIaCwu2wEFWI%3D"`,
 	};
 
 	dispatch({
