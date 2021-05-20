@@ -1,6 +1,6 @@
 const initState = {
 	items: [],
-	searchText: "",
+	searchText: "hulk",
 	loading: false,
 	error: null,
 };

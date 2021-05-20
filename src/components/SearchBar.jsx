@@ -1,10 +1,11 @@
 import React from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";
 import { fetchPosts, searchText } from "../redux/actions";
 
 export default function SearchBar() {
 	const dispatch = useDispatch(searchText, fetchPosts);
+	const initialValue = useSelector((state) => state.searchText);
 	function handleChange(event) {
 		dispatch(searchText(event.target.value));
 		setTimeout(() => {
@@ -15,7 +16,7 @@ export default function SearchBar() {
 	return (
 		<div>
 			<HashLabel>#</HashLabel>
-			<Input type="text" onChange={(e) => handleChange(e)} />
+			<Input type="text" onChange={(e) => handleChange(e)} value={initialValue} />
 		</div>
 	);
 }
