@@ -1,4 +1,4 @@
-import axios from "axios";
+import { ajax } from "rxjs/ajax";
 
 export const searchText = (text) => (dispatch) => {
 	dispatch({
@@ -17,17 +17,23 @@ export const fetchPosts = () => async (dispatch, getState) => {
 	dispatch({
 		type: "FETCH_TWEETS_REQUEST",
 	});
-	try {
-		const response = await axios.get(`${SEARCH_TWITTER_URL}?q=%23${searchText}&lang=es&count=10`, { headers: headers });
-		console.log(response.data.statuses);
-		dispatch({
-			type: "FETCH_TWEETS_SUCCESS",
-			payload: response.data.statuses,
-		});
-	} catch (error) {
-		dispatch({
-			type: "FETCH_TWEETS_FAILURE",
-			error,
-		});
-	}
+
+	ajax({
+		url: `${SEARCH_TWITTER_URL}?q=%23${searchText}&lang=es&count=10`,
+		method: "GET",
+		headers,
+	}).subscribe({
+		next: (res) => {
+			dispatch({
+				type: "FETCH_TWEETS_SUCCESS",
+				payload: res.response.statuses,
+			});
+		},
+		error: (error) => {
+			dispatch({
+				type: "FETCH_TWEETS_FAILURE",
+				error,
+			});
+		},
+	});
 };
