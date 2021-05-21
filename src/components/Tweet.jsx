@@ -20,9 +20,9 @@ export default function Tweet(props) {
 				return item;
 			}
 		});
-		return newText.map((item) => {
+		return newText.map((item, index) => {
 			return (
-				<span>
+				<span key={index}>
 					<span>{item}</span>
 					<span> </span>
 				</span>
@@ -39,7 +39,6 @@ export default function Tweet(props) {
 					<div>
 						<b>{data.user.name}</b>
 					</div>
-
 					<div>{addStyles(data.text)}</div>
 				</div>
 			</TweetContainer>
