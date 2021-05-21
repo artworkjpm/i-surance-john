@@ -2,6 +2,33 @@ import React from "react";
 import styled from "styled-components";
 export default function Tweet(props) {
 	const data = props.data;
+
+	function addStyles(text) {
+		let split = text.split(" ");
+		let newText = split.map((item) => {
+			if (item.includes("#")) {
+				return <Hash>{item}</Hash>;
+			} else if (item.includes("@")) {
+				return <User>{item}</User>;
+			} else if (item.includes("https://" || item.includes("http://"))) {
+				return (
+					<Link href={item} target="_blank">
+						{item}
+					</Link>
+				);
+			} else {
+				return item;
+			}
+		});
+		return newText.map((item) => {
+			return (
+				<span>
+					<span>{item}</span>
+					<span> </span>
+				</span>
+			);
+		});
+	}
 	return (
 		<div>
 			<TweetContainer>
@@ -13,12 +40,26 @@ export default function Tweet(props) {
 						<b>{data.user.name}</b>
 					</div>
 
-					<div>{data.text}</div>
+					<div>{addStyles(data.text)}</div>
 				</div>
 			</TweetContainer>
 		</div>
 	);
 }
+
+const Hash = styled.span`
+	color: green;
+	font-weight: bold;
+`;
+
+const User = styled.span`
+	color: red;
+	font-weight: bold;
+`;
+
+const Link = styled.a`
+	font-weight: bold;
+`;
 
 const TweetContainer = styled.div`
 	display: grid;
