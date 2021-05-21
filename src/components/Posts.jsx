@@ -16,10 +16,15 @@ const Posts = () => {
 		return state.loading && <Loading>Loading...</Loading>;
 	}
 
+	function noTweetsFound() {
+		return !state.loading && state.items.length === 0 && <Loading> No Tweets found, try amending your search</Loading>;
+	}
+
 	return (
 		<div>
 			<SearchBar />
 			{renderTweets()}
+			{noTweetsFound()}
 			{!state.loading &&
 				state.items.map((el) => {
 					return <Tweet data={el} key={el.id_str} />;
