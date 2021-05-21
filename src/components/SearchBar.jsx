@@ -1,22 +1,28 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";
 import { fetchPosts, searchText } from "../redux/actions";
+import { debounceTime, tap, distinctUntilChanged } from "rxjs/operators";
+import { Subject } from "rxjs";
 
 export default function SearchBar() {
 	const dispatch = useDispatch(searchText, fetchPosts);
 	const initialValue = useSelector((state) => state.searchText);
-	function handleChange(event) {
-		dispatch(searchText(event.target.value));
-		setTimeout(() => {
-			dispatch(fetchPosts());
-		}, 1000);
-	}
+	const [onSearch$] = useState(() => new Subject());
+	useEffect(() => {
+		onSearch$.pipe(debounceTime(600), distinctUntilChanged(), tap()).subscribe((queryName) => {
+			dispatch(fetchPosts(queryName));
+		});
+	}, [dispatch, onSearch$]);
+	const handleSearch = (e) => {
+		dispatch(searchText(e.target.value));
+		onSearch$.next(e.target.value);
+	};
 
 	return (
 		<div>
 			<HashLabel>#</HashLabel>
-			<Input type="text" onChange={(e) => handleChange(e)} value={initialValue} />
+			<Input type="text" onChange={(e) => handleSearch(e)} value={initialValue} />
 		</div>
 	);
 }

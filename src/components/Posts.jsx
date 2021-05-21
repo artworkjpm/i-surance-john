@@ -9,7 +9,7 @@ const Posts = () => {
 	const dispatch = useDispatch(fetchPosts);
 	const state = useSelector((state) => state);
 	useEffect(() => {
-		dispatch(fetchPosts());
+		dispatch(fetchPosts("hulk"));
 	}, [dispatch]);
 
 	function renderTweets() {
