@@ -15,9 +15,6 @@ export const postsReducer = (state = initState, action) => {
 				error: null,
 			};
 		case "FETCH_TWEETS_SUCCESS":
-			if (state.items.length === action.payload.length) {
-				alert("No more tweets available");
-			}
 			return {
 				...state,
 				loading: false,

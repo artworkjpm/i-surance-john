@@ -32,7 +32,7 @@ const Input = styled.input`
 	padding: 12px 20px 12px 35px;
 	margin: 10px;
 	display: inline-block;
-	border: 2px solid green;
+	border: 2px solid #7000ff;
 	border-radius: 35px;
 	box-sizing: border-box;
 	font-size: 18px;
@@ -43,4 +43,5 @@ const HashLabel = styled.label`
 	left: 40px;
 	font-size: 20px;
 	font-weight: bold;
+	color: white;
 `;

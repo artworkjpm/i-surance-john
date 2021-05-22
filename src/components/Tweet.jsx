@@ -47,17 +47,18 @@ export default function Tweet(props) {
 }
 
 const Hash = styled.span`
-	color: green;
+	color: lime;
 	font-weight: bold;
 `;
 
 const User = styled.span`
-	color: red;
+	color: #ff6b6b;
 	font-weight: bold;
 `;
 
 const Link = styled.a`
 	font-weight: bold;
+	color: #a35aff;
 `;
 
 const TweetContainer = styled.div`
@@ -68,10 +69,13 @@ const TweetContainer = styled.div`
 	padding: 10px;
 	border-radius: 35px;
 	justify-content: flex-start;
+	background-color: #000000;
+	color: white;
 
 	> div > div:nth-of-type(1) {
 		font-size: 20px;
 		margin-bottom: 5px;
+		color: yellow;
 	}  > div:nth-of-type(2) {
 		line-height: 20px;
 `;

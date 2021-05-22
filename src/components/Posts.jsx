@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import styled from "styled-components";
 import { fetchPosts, updateAmount } from "../redux/actions";
@@ -9,7 +9,6 @@ const Posts = () => {
 	const dispatch = useDispatch(fetchPosts);
 	const state = useSelector((state) => state);
 	useEffect(() => {
-		console.log("useEffect");
 		dispatch(fetchPosts("hulk"));
 	}, [dispatch]);
 
@@ -31,9 +30,6 @@ const Posts = () => {
 			dispatch(updateAmount(state.amount));
 			dispatch(fetchPosts(state.searchText, state.amount));
 		}
-		/* 	console.log("scrollHeight", scrollHeight);
-		console.log("scrollTop", scrollTop);
-		console.log("clientHeight", clientHeight); */
 	}
 
 	return (
@@ -59,6 +55,10 @@ const Content = styled.div`
 
 const Loading = styled.div`
 	text-align: center;
-	margin: 20px;
+	margin: 10px;
 	font-weight: bold;
+	background-color: #400b84;
+	padding: 10px;
+	color: #ffffff;
+	border-radius: 35px;
 `;

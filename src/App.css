@@ -3,3 +3,15 @@ input {
 	font-family: Arial, Helvetica, sans-serif;
 	overflow: hidden;
 }
+
+input {
+	background-color: black;
+	color: white;
+}
+
+body {
+	background-image: url("../src/images/hulk2.jpg");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-size: contain;
+}
