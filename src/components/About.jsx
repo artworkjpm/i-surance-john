@@ -64,7 +64,7 @@ export default function About() {
 			<p>I hope to get some feedback</p>
 			<p>
 				Regards, John Moran: 695966706,{" "}
-				<a href="https://jpm.netlify.app" target="_blank">
+				<a href="https://jpm.netlify.app" target="_blank" rel="noreferrer">
 					https://jpm.netlify.app
 				</a>
 			</p>
