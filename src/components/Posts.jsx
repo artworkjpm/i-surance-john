@@ -9,7 +9,7 @@ const Posts = () => {
 	const dispatch = useDispatch(fetchPosts);
 	const state = useSelector((state) => state);
 	useEffect(() => {
-		dispatch(fetchPosts("hulk", 10));
+		dispatch(fetchPosts("hulk", 15));
 	}, [dispatch]);
 
 	function renderTweets() {
@@ -49,7 +49,7 @@ const Posts = () => {
 export default Posts;
 
 const Content = styled.div`
-	height: 600px;
+	height: 90vh;
 	overflow: scroll;
 `;
 
