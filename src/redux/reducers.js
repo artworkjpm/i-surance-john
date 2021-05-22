@@ -1,5 +1,6 @@
 const initState = {
 	items: [],
+	amount: 10,
 	searchText: "hulk",
 	loading: false,
 	error: null,
@@ -14,6 +15,9 @@ export const postsReducer = (state = initState, action) => {
 				error: null,
 			};
 		case "FETCH_TWEETS_SUCCESS":
+			if (state.items.length === action.payload.length) {
+				alert("No more tweets available");
+			}
 			return {
 				...state,
 				loading: false,
@@ -29,6 +33,11 @@ export const postsReducer = (state = initState, action) => {
 			return {
 				...state,
 				searchText: action.text,
+			};
+		case "UPDATE_TWEETS_AMOUNT":
+			return {
+				...state,
+				amount: action.amount,
 			};
 		default:
 			return state;

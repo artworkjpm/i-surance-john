@@ -7,7 +7,14 @@ export const searchText = (text) => (dispatch) => {
 	});
 };
 
-export const fetchPosts = (text) => async (dispatch) => {
+export const updateAmount = (amount) => (dispatch) => {
+	dispatch({
+		type: "UPDATE_TWEETS_AMOUNT",
+		amount: amount + 10,
+	});
+};
+
+export const fetchPosts = (text, amount) => async (dispatch) => {
 	//Try https://private-cors-server.herokuapp.com/ if https://cors-john.herokuapp.com is failing
 	const SEARCH_TWITTER_URL = "https://cors-john.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json";
 	const headers = {
@@ -18,7 +25,7 @@ export const fetchPosts = (text) => async (dispatch) => {
 	});
 
 	ajax({
-		url: `${SEARCH_TWITTER_URL}?q=%23${text}&lang=es&count=10`,
+		url: `${SEARCH_TWITTER_URL}?q=%23${text}&lang=es&count=${amount}`,
 		method: "GET",
 		headers,
 	}).subscribe({
