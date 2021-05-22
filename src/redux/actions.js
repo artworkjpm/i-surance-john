@@ -16,7 +16,7 @@ export const updateAmount = (amount) => (dispatch) => {
 
 export const fetchPosts = (text, amount) => async (dispatch) => {
 	//Try https://private-cors-server.herokuapp.com/ if https://cors-john.herokuapp.com is failing
-	const SEARCH_TWITTER_URL = `https://private-cors-server.herokuapp.com/https://api.twitter.com/1.1/search/tweets.json`;
+	const SEARCH_TWITTER_URL = `${process.env.REACT_APP_PROXY}https://api.twitter.com/1.1/search/tweets.json`;
 	const headers = {
 		Authorization: `Bearer AAAAAAAAAAAAAAAAAAAAAHU1PwEAAAAAxgvrRIVbcemkJwZF%2FtWayPMIWj4%3DSad7myAf9I3JD62X6I4I8tO8Q2nGE6qhg7C5ORDq6tKKJ4WNlE`,
 	};
