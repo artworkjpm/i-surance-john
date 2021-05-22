@@ -30,6 +30,7 @@ export const fetchPosts = (text, amount) => async (dispatch) => {
 		headers,
 	}).subscribe({
 		next: (res) => {
+			console.log(res);
 			dispatch({
 				type: "FETCH_TWEETS_SUCCESS",
 				payload: res.response.statuses,
