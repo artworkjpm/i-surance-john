@@ -67,10 +67,13 @@ const TweetContainer = styled.div`
 	margin: 10px;
 	padding: 10px;
 	border-radius: 35px;
+	justify-content: flex-start;
 
 	> div > div:nth-of-type(1) {
 		font-size: 20px;
-	}
+		margin-bottom: 5px;
+	}  > div:nth-of-type(2) {
+		line-height: 20px;
 `;
 
 const ImgCircle = styled.div`
