@@ -9,7 +9,7 @@ const Posts = () => {
 	const dispatch = useDispatch(fetchPosts);
 	const state = useSelector((state) => state);
 	useEffect(() => {
-		dispatch(fetchPosts("hulk", 15));
+		dispatch(fetchPosts("hulk", 10));
 	}, [dispatch]);
 
 	function renderTweets() {
@@ -28,7 +28,7 @@ const Posts = () => {
 		const { scrollTop, clientHeight, scrollHeight } = event.currentTarget;
 		if (scrollHeight - scrollTop === clientHeight) {
 			dispatch(updateAmount(state.amount));
-			dispatch(fetchPosts(state.searchText, state.amount));
+			dispatch(fetchPosts(state.searchText, state.amount + 10));
 		}
 	}
 

@@ -10,7 +10,7 @@ export default function SearchBar() {
 	const initialValue = useSelector((state) => state.searchText);
 	const [onSearch$] = useState(() => new Subject());
 	useEffect(() => {
-		onSearch$.pipe(debounceTime(600), distinctUntilChanged(), tap()).subscribe((queryName) => {
+		onSearch$.pipe(debounceTime(1000), distinctUntilChanged(), tap()).subscribe((queryName) => {
 			dispatch(fetchPosts(queryName));
 		});
 	}, [dispatch, onSearch$]);
